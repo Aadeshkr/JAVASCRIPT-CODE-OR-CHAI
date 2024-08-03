@@ -1,0 +1,12 @@
+{
+	"name": "My Codespace",
+	"image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-14",
+	"extensions": [
+	  "ritwickdey.LiveServer"
+	],
+	"settings": {
+	  "editor.tabSize": 2
+	},
+	"postCreateCommand": "npm install"
+  }
+  
