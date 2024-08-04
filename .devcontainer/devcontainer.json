@@ -5,7 +5,10 @@
 	  "ritwickdey.LiveServer"
 	],
 	"settings": {
-	  "editor.tabSize": 2
+	  //"editor.tabSize": 2,
+		"editor.fontSize": 32,
+				"terminal.integrated.fontSize": 24,
+				"editor.wordWrap": "on"
 	},
 	"postCreateCommand": "npm install"
   }
