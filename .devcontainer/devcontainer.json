@@ -6,8 +6,8 @@
 	],
 	"settings": {
 	  //"editor.tabSize": 2,
-		"editor.fontSize": 32,
-				"terminal.integrated.fontSize": 24,
+		"editor.fontSize": 27,
+				"terminal.integrated.fontSize": 19,
 				"editor.wordWrap": "on"
 	},
 	"postCreateCommand": "npm install"
